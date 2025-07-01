@@ -1,4 +1,5 @@
 🚀 Real-Time Chat Application
+
 A real-time chat application built using Node.js, Express.js, and Socket.IO, with a bad words filtering module to ensure a safe and respectful chat environment.
 
 🛠 Features
